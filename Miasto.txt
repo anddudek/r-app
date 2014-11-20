@@ -1,0 +1,17 @@
+Wojewodztwo	Miejsce	Mieszkancy
+1	Dolnoslaskie	Miasto	2037738
+2	Kujawsko-Pomorskie	Miasto	1269821
+3	Lubelskie	Miasto	1011528
+4	Lubuskie	Miasto	649297
+5	Lodzkie	Miasto	1621763
+6	Malopolskie	Miasto	1640965
+7	Mazowieckie	Miasto	3381717
+8	Opolskie	Miasto	532218
+9	Podkarpackie	Miasto	881664
+10	Podlaskie	Miasto	724547
+11	Pomorskie	Miasto	1498270
+12	Slaskie	Miasto	3601599
+13	Swietokrzyskie	Miasto	577846
+14	Warminsko-mazurskie	Miasto	863356
+15	Wielkopolskie	Miasto	1925817
+16	Zachodniopomorskie	Miasto	1187746

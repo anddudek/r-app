@@ -1,0 +1,17 @@
+Wojewodztwo	Miejsce	Mieszkancy
+1	Dolnoslaskie	Wies	877500
+2	Kujawsko-Pomorskie	Wies	827813
+3	Lubelskie	Wies	1164172
+4	Lubuskie	Wies	373546
+5	Lodzkie	Wies	916914
+6	Malopolskie	Wies	1696506
+7	Mazowieckie	Wies	1886943
+8	Opolskie	Wies	483995
+9	Podkarpackie	Wies	1245621
+10	Podlaskie	Wies	477818
+11	Pomorskie	Wies	777906
+12	Slaskie	Wies	1028765
+13	Swietokrzyskie	Wies	702881
+14	Warminsko-mazurskie	Wies	588791
+15	Wielkopolskie	Wies	1521624
+16	Zachodniopomorskie	Wies	535137

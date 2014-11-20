@@ -1,4 +1,4 @@
-Wojewodztwo	Miejsce	Ilosc
+Wojewodztwo	Miejsce	Mieszkancy
 1	Dolnoslaskie	Calosc	2915238
 2	Dolnoslaskie	Miasto	2037738
 3	Dolnoslaskie	Wies	877500
